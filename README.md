@@ -1,4 +1,4 @@
-- 👋 <h2 align="left">Hi 👋! My name is Eduardo and I'm an electrical Engineer passionate about coding and finance</h2>
+<h2 align="left">Hi 👋! My name is Eduardo and I'm an electrical Engineer passionate about coding and finance</h2>
 - 👀 I’m interested in any type of technology
 - 🌱 I’m currently studying data science and learning about AI and LLM
 - 💞️ I’m looking to collaborate on Python, SQL, Visual Basic, C, Autodesk Fusion
