@@ -1,4 +1,4 @@
 customer_code,account_status,activation_date,pay_status,whatsapp_hash,plan,max_devices,ads_enabled,expires_at,allowed_features,device_identifier,activation_challenge
 "270717","active","16/08/2026","ok","9TKE2H9Y","Active","4","no","15/08/2027","Devices:4; Ads:No; Deadline:1 year renewal","8ZM3323K","AA45123F70"
-"163414","trial","15/07/2026","ok","","Trial","1","yes","14/08/2026","Devices:1; Ads:Yes; Deadline:30 days renewal","noneed","noneed"
-"380687","inactive","15/05/2026","ok","","Inactive","1","yes","15/06/2027","Devices:1; Ads:Yes; Deadline:30 days renewal","noneed","noneed"
+"163414","trial","15/07/2026","NA","","Trial","1","yes","14/08/2026","Devices:1; Ads:Yes; Deadline:30 days renewal","noneed","noneed"
+"380687","inactive","15/05/2026","NA","","Inactive","1","yes","15/06/2027","Devices:1; Ads:Yes; Deadline:30 days renewal","noneed","noneed"
